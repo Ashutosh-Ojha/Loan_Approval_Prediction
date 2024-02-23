@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on predicting loan approval chances using machine learning techniques. A variety of classifiers, including Random Forest, Gaussian Naive Bayes, Decision Tree, and K-Nearest Neighbors, were implemented to achieve accurate predictions.
+This project focuses on predicting loan approval chances using machine learning techniques. A variety of classifiers, including Random Forest, Decision Tree, XGBoost and Logistic Regression, were implemented to achieve accurate predictions.
 
 ## Project Highlights
 
@@ -20,5 +20,5 @@ This project focuses on predicting loan approval chances using machine learning 
 ## Usage
 
 1. Install the required packages.
-2. Open the Jupyter Notebook (`Loan_Approval_Prediction.ipynb`) using Jupyter Notebook or Jupyter Lab.
+2. Open the Jupyter Notebook (`loanprediction.ipynb`) using Jupyter Notebook or Jupyter Lab.
 3. Follow the step-by-step instructions in the notebook to understand the data, preprocess it, and train machine learning models.
